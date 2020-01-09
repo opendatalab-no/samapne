@@ -1,9 +1,40 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Nyheter"
+    url: /nyheter/
+  - title: "Forvalting"
+    url: /forvaltning/intro/
+  - title: "Samordning"
+    url: /samordning/intro/
+  - title: "Samskaping"
+    url: /samskaping/intro/
+  - title: "Om SamÅpne"
+    url: /om/
+    
+    
+forvaltning:
+  - title: Forvaltning
+    children:
+      - title: "Om forvaltning"
+        url: /forvaltning/intro/
+      - title: "Aktører i MaaS"
+        url: /forvaltning/todo/
+  - title: Muligheter og utfordringer
+    children:
+      - title: "Fordeler for reisende"
+        url: /forvaltning/todo/
+      - title: "Nye muligheter"
+        url: /forvaltning/todo/
+      - title: "Barrierer"
+        url: /forvaltning/todo/
+  - title: Forretningsmodeller
+    children:
+      - title: "Gevinster og kostnader"
+        url: /forvaltning/todo/
+      - title: "Merkevare og synlighet"
+        url: /forvaltning/todo/
+  - title: Innovasjon
+    children:
+      - title: "Hva skal til for å realisere MaaS?"
+        url: /forvaltning/todo/
+      - title: "Dataformater og standarder"
+        url: /forvaltning/todo/
