@@ -1,7 +1,7 @@
 main:
   - title: "Nyheter"
     url: /nyheter/
-  - title: "Forvalting"
+  - title: "Forvaltning"
     url: /forvaltning/intro/
   - title: "Samordning"
     url: /samordning/intro/
@@ -14,27 +14,70 @@ main:
 forvaltning:
   - title: Forvaltning
     children:
-      - title: "Om forvaltning"
+      - title: "Om forvaltning av åpne data"
         url: /forvaltning/intro/
-      - title: "Aktører i MaaS"
-        url: /forvaltning/todo/
-  - title: Muligheter og utfordringer
+  - title: Forvaltningsmodell
     children:
-      - title: "Fordeler for reisende"
+      - title: "Roller"
         url: /forvaltning/todo/
-      - title: "Nye muligheter"
+      - title: "Eierskap"
         url: /forvaltning/todo/
-      - title: "Barrierer"
+      - title: "Produksjon og vedlikehold av data"
+        url: /forvaltning/todo/    
+      - title: "Datakvalitet"
+        url: /forvaltning/todo/
+      - title: "Tjenestenivå"
+        url: /forvaltning/todo/
+      - title: "Lisenser"
         url: /forvaltning/todo/
   - title: Forretningsmodeller
     children:
       - title: "Gevinster og kostnader"
         url: /forvaltning/todo/
-      - title: "Merkevare og synlighet"
+      - title: "Salg av data"
+        url: /forvaltning/todo/
+      - title: "Betalt tjenestenivå"
+        url: /forvaltning/todo/
+      - title: "Samfinansiering"
         url: /forvaltning/todo/
   - title: Innovasjon
     children:
-      - title: "Hva skal til for å realisere MaaS?"
+      - title: "Tilrettelegging for innovasjon"
         url: /forvaltning/todo/
-      - title: "Dataformater og standarder"
+      - title: "Samarbeid med næringsliv"
         url: /forvaltning/todo/
+
+
+samordning:
+  - title: Samordning
+    children:
+      - title: "Om samordning av åpne data"
+        url: /samordning/intro/
+  - title: Metode for samskaping med åpne data
+    children:
+      - title: "Teknikker"
+        url: /samordning/todo/
+      - title: "Ledelse"
+        url: /samordning/todo/
+      - title: "Erfaringer"
+        url: /samordning/todo/    
+      - title: "Videre lesning"
+        url: /samordning/todo/
+
+samskaping:
+  - title: Samskaping
+    children:
+      - title: "Om samskaping med åpne data"
+        url: /samskaping/intro/
+  - title: Metode for samskaping med åpne data
+    children:
+      - title: "Teknikker"
+        url: /samskaping/todo/
+      - title: "Ledelse"
+        url: /samskaping/todo/
+      - title: "Erfaringer"
+        url: /samskaping/todo/    
+      - title: "Videre lesning"
+        url: /samskaping/todo/
+
+
