@@ -27,6 +27,5 @@ Prosjektet skal etablere og spre ny kunnskap om problemstillingene nevnt over. T
 
 ## Kontaktpersoner
 
-Ola Eirik Klingen: ola-eirik.klingen@trondheim.kommune.no
-
-Shanshan Jiang: shanshan.jiang@sintef.no
+Ola Eirik Klingen: [ola-eirik.klingen@trondheim.kommune.no](ola-eirik.klingen@trondheim.kommune.no)
+Shanshan Jiang: [shanshan.jiang@sintef.no](mailto:shanshan.jiang@sintef.no)
