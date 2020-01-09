@@ -53,13 +53,13 @@ samordning:
     children:
       - title: "Om samordning av åpne data"
         url: /samordning/intro/
-  - title: Metode for samskaping med åpne data
+  - title: Temaer for samordning av åpne data
     children:
-      - title: "Teknikker"
+      - title: "Velge datasett å samordne"
         url: /samordning/todo/
-      - title: "Ledelse"
+      - title: "Dele datasett på samme måte"
         url: /samordning/todo/
-      - title: "Erfaringer"
+      - title: "Dele erfaringer"
         url: /samordning/todo/    
       - title: "Videre lesning"
         url: /samordning/todo/
