@@ -66,6 +66,13 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.sintef.no/alle-ansatte/ansatt/?empid=542"
 
+author:
+  name   : "Shanshan Jiang"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Research Scientist at SINTEF"
+  
+
+
 footer:
   links:
 #    - label: "Twitter"
