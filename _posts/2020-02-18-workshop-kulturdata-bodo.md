@@ -1,6 +1,6 @@
 ---
 title: "Workshop om kulturdata i Bodø, 20.02.2020"
-date: 2020-02-12T09:00:00+01:00
+date: 2020-02-18T12:20:00+01:00
 author: "Erlend Stav"
 categories:
   - blog
