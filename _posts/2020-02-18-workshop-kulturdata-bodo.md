@@ -15,7 +15,7 @@ Bodø kommune har gleden av å invitere deg til en idéworkshop for utvikling av
 
 Agenda: 
 * 08:30 - 08:40 SamÅpne - hvorfor dele åpne data og hvordan kan vi bruke dem?
-* 08:45 - 08:55Bodø kommune som kulturhovedstad 2024
+* 08:45 - 08:55 Bodø kommune som kulturhovedstad 2024
 * 09:00 - 09:15 Hvordan kan næringslivet bruke åpne data til å utvikle tjenester?
 * 09:15 - 09:25 PAUSE
 * 09:25 - 11:00 Workshop
