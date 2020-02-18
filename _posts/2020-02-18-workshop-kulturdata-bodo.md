@@ -21,6 +21,6 @@ Agenda:
 * 09:25 - 11:00 Workshop
 * 11:00 - 11:30 Oppsummering
 
-For å tilrettelegge workshopen på best mulig vis i forhold til lunsjbestilling og oppgavefordeling, bes det om at de som ønsker å delta sender *mail for påmelding* til: [geir.martin.johansen@bodo.kommune.no](geir.martin.johansen@bodo.kommune.no).
+For å tilrettelegge workshopen på best mulig vis i forhold til lunsjbestilling og oppgavefordeling, bes det om at de som ønsker å delta sender **mail for påmelding** til: [geir.martin.johansen@bodo.kommune.no](geir.martin.johansen@bodo.kommune.no).
 
 Så også [eventet for workshopen](https://www.facebook.com/events/601940207205977/).
