@@ -1,1 +1,56 @@
+---
+title: "Workshop om åpne data i Trondheim, 13.02.2020"
+date: 2020-04-01T12:20:00+01:00
+author: "Marit Natvig"
+categories:
+  - blog
+tags:
+  - SamÅpne
+  - worskhop
+  - update
+
+---
+
+Bodø kommune har gleden av å invitere deg til en idéworkshop for utvikling av innovasjonsideer basert på åpne kommunale data. Workshopen holdes torsdag 20. februar på Bystyresalen i Rådhuset, Kongens gate 23.  
+
+Agenda: 
+* 08:30 - 08:40 SamÅpne - hvorfor dele åpne data og hvordan kan vi bruke dem?
+* 08:45 - 08:55 Bodø kommune som kulturhovedstad 2024
+* 09:00 - 09:15 Hvordan kan næringslivet bruke åpne data til å utvikle tjenester?
+* 09:15 - 09:25 PAUSE
+* 09:25 - 11:00 Workshop
+* 11:00 - 11:30 Oppsummering
+
+13. februar arrangerte Trondheim kommune dialogseminar på mulig åpning av datasett fra områdene lønn, HR, turnus, sykefravær og finans. Det var deltakere fra de respektive enhetene i kommunen, næringslivet og SINTEF. 
+Data om lønn og HR. 
+Bakgrunnen for at man vurderer å publisere slike data er bl.a. et ønske om løsninger som
+•	Gir bedre budsjettering, prognoser, etc.
+•	Kan støtte lønnsforhandlinger ved å gi verktøy som gjør prosessen hurtigere og enklere: Bedre data for begge parter (krav fra ansatte/fagforeninger, forslag fra enhetsledere, første og siste tilbud, …) samt "simuleringer" av prognoser og konsekvenser
+•	Kan støtte håndtering av streik (levere tjenester med mindre bemanning og gi informasjon)
+
+Kommunen har bl.a. datasett (alle må anonymiseres) på kompetanseoversikt, opplæringsplaner og rekruttering, lønn ned refusjon/tillegg, fravær og nærvær (statistikk) samt resultater fra arbeidsmiljøundersøkelser.
+Vurdering: Det er interesse for disse dataene.
+Turnusdata for helseområdet
+Bakgrunnen for at man vurderer å publisere slike data er bl.a. et ønske om løsninger som
+•	Gir prediksjon av fravær og analyserer heltids/deltids problematikk kontra sykefravær.
+•	Kopler turnus til kompetansebehov og ansattes kompetanse for bedre ressursstyring
+•	Gir sannsynlighet for at folk blir kalt inn og finner erstatningspersonell ved sykdom
+•	Planlegger ferieavvikling i henhold til behov 
+Kommunen har datasett av god kvalitet (alle må anonymiseres)
+Vurdering: Usikker på nytteverdien av slike data. Dataene er mest for intern bruk.
+Data om sykefravær
+Bakgrunnen for at man vurderer å publisere slike data er bl.a. et ønske om løsninger som predikterer sykefravær og gir forståelse av sammenhengen mellom bl.a. sykefravær og medarbeideroppfølging.
+Vurdering: Ingen konklusjon
+Finansdata
+Bakgrunnen for at man vurderer å publisere slike data er bl.a. et ønske om 
+•	Bedre økonomiprediksjon og støtteverktøy som viser konsekvenser (årsverk, etc.). Kan bl.a. også benytte lønnsforhandlingsdata.
+•	Bedre prognoser. Økt spesped i barnehage kan f.eks. gi økt spesped i skole noen år senere
+•	Sammenligning med andre byer – bl.a. i forhold til FNs bærekraftsmål (SDG)
+•	Kopling av SDG (FNs bærekraftsmål) og budsjettering. Man kan f.eks. vise indekser (bruker KOSTRA -f.eks. hvor mange penger man bruke på god helse, etc.)
+•	Interaksjon med innbyggere, næringsliv og frivillighet rundt økonomi
+Dette er regnskapsdata (også historiske), prognoser, budsjettdata og resultatdata. Rådata er mest interessant, men det er en del støy på detaljnivå som er avhengige av hvordan regnskapet føres. Man bør derfor kanskje opp noen nivå.
+Vurdering: Finansdata er interessant som åpne data
+Demografidata
+Dette er data fordelt på år, bydeler og gater. Det kan også være prognoser (bl.a. basert på byplan som går 5 år fremover). Man trenger rådata og ikke aggregerte tall..
+Vurdering: Meget interessant med data som gir innblikk i demografiutviklingen
 
