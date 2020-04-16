@@ -9,7 +9,7 @@ tags:
   - worskhop
   - update
 ---
-13. februar arrangerte Trondheim kommune dialogseminar på mulig åpning av datasett. Det var deltakere ulike enheter i kommunen, næringslivet og SINTEF. Noen av de områdene hvor det er relevant å åpne data beskrives under. Merk at alle data må anonymiseres. 
+13de februar 2020 arrangerte Trondheim kommune et dialogseminar på mulig åpning av datasett. Det var deltakere fra ulike enheter i kommunen, næringslivet og SINTEF. Noen av de områdene hvor det er relevant å åpne data beskrives under. Merk at alle data må anonymiseres. 
 
 Lønn og HR: 
 Kommunen har bl.a. data på kompetanse, opplæringsplaner, rekruttering, lønn med refusjon/tillegg, fravær og nærvær samt arbeidsmiljøundersøkelser. Det er interesse for disse dataene da de f.eks. kan
