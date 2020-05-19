@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
+  overlay_image: /assets/images/header.svg
   caption: 
 excerpt: 'Samskaping og næringsutvikling med åpne kommunale data'
 feature_row:
