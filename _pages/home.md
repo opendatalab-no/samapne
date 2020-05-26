@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Samåpne"
+title: "SamÅpne"
 tagline: 'Samskaping og næringsutvikling med åpne kommunale data'
 header:
   overlay_image: /assets/images/header.svg
