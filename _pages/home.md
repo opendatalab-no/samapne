@@ -1,11 +1,11 @@
 ---
 layout: splash
 permalink: /
+title: "Samåpne"
+tagline: 'Samskaping og næringsutvikling med åpne kommunale data'
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/header.svg
   caption: 
-excerpt: 'Samskaping og næringsutvikling med åpne kommunale data'
 feature_row:
   - image_path: /assets/images/publish-icons.png
     alt: "publishing"
@@ -31,17 +31,16 @@ feature_row:
     
 ---
 
-SamÅpne er et innovasjonsprosjekt i offentlig sektor under FORKOMMUNE-programmet til Forskningsrådet.
-
-Prosjektet mål er å bidra til at kommuner kan etablere kostnadseffektive og standardiserte prosesser for åpning og forvaltning av innovasjonsfremmende åpne data, og "knekke koden" for å skape innovasjon og næringsutvikling gjennom samskaping basert på åpne data. Les mer om prosjektet her.
+SamÅpne er et innovasjonsprosjekt i offentlig sektor under FORKOMMUNE-programmet til Forskningsrådet. Prosjektet mål er å bidra til at kommuner kan etablere kostnadseffektive og standardiserte prosesser for åpning og forvaltning av innovasjonsfremmende åpne data, og "knekke koden" for å skape innovasjon og næringsutvikling gjennom samskaping basert på åpne data. Les mer om prosjektet her.
 
 Prosjektpartnere er Trondheim kommune, Bodø kommune og SINTEF. I tillegg er det flere kommuner som følger prosjektet.
 
 [Les mer om prosjektet](/om){: .btn .btn--inverse}
 ## Workshops og seminarer
 I løpet av prosjektet vil vi arrangere en rekke workshops og seminarer hvor vi inviterer næringsliv og andre interesserte får anledning til å ha en dialog og samskape ideer med  fagpersoner fra kommunene. Om dette er interessant for deg, ta gjerne kontakt med oss! 
+## OpenDataLab
+Samåpne er et av flere prosjekt som i fellesskap bidrar med forskningsresultater om åpne data til [opendatalab.no](https://opendatalab.no/).
 
-De første arrangementene vil finne sted i Trondheim og Bodø. Datoer og flere detaljer vil bli annonsert her senere.
 ## Nyheter fra prosjektet
 {% for post in site.posts limit:1 %}
 {% capture notice-2 %}
