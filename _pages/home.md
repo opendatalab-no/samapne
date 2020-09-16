@@ -40,6 +40,12 @@ Prosjektpartnere er Trondheim kommune, Bodø kommune og SINTEF. I tillegg er det
 I løpet av prosjektet vil vi arrangere en rekke workshops og seminarer hvor vi inviterer næringsliv og andre interesserte får anledning til å ha en dialog og samskape ideer med  fagpersoner fra kommunene. Om dette er interessant for deg, ta gjerne kontakt med oss! 
 ## OpenDataLab
 Samåpne er et av flere prosjekt som i fellesskap bidrar med forskningsresultater om åpne data til [opendatalab.no](https://opendatalab.no/).
+I opendatalab finner du bl.a. informasjon om [publisering](https://opendatalab.no/publish/intro/) og [bruk](https://opendatalab.no/use/) av åpne data, og [showcases](https://opendatalab.no/showcases/) som bruker åpne data. 
+
+## Studentprosjekter
+Som del av Samåpne prosjektet samarbeider vi med studentgrupper ved NTNU.
+Den første studentgruppa utviklet våren 2020 en [prototyp for en portal](/blog/studentprosjekt/) som fokuserer på hvordan kommunale data kan presenteres. Gruppen laget også en [videopresentasjon](https://youtu.be/GlhJ1vyRqTg).
+Høsten 2020 jobber en ny studentgruppe med nye ideer rundt samordning av åpne data og innovasjon.
 
 ## Nyheter fra prosjektet
 {% for post in site.posts limit:1 %}
