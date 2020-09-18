@@ -1,6 +1,6 @@
 ---
 title: "Bodø lanserer ny portal for sine åpne kartdata"
-date: 2020-09-16T12:00:00+02:00
+date: 2020-09-18T14:00:00+02:00
 author: "Erlend Stav"
 categories:
   - blog
@@ -11,6 +11,8 @@ tags:
 
 ---
 
-Bodø kommune har nå lansert en [ny portal med åpne kartdata](https://opendata-bodokommune.hub.arcgis.com/) fra kommunen.
+Bodø kommune har nå lansert en [ny portal med åpne data](https://opendata-bodokommune.hub.arcgis.com/) fra kommunen.
 
-Portalen inneholder datasett i kategoriene kultur, idrett, filuftsliv, forurensning og renovasjon.
+Portalen inneholder så langt karbaserte datasett i kategoriene kultur, idrett, filuftsliv, veg, forurensning og renovasjon.
+
+Kommunen arbeider allerede med flere datasett som skal legges ut, og skal også se på muligheter for å legge ut  datasett som ikke kartbaserete, som f.eks. økonomidata. Det er også planlagt å opprette koblinger i [geonorge.no](https://www.geonorge.no/) til datasettene i portalen.
