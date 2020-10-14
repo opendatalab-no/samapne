@@ -9,6 +9,8 @@ main:
     url: /samskaping/intro/
   - title: "Om SamÅpne"
     url: /om/
+  - title: "Info in English"
+    url: /About/
     
     
 forvaltning:
