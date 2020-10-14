@@ -15,7 +15,6 @@ The "Municipality 3.0" concept emphasizes that the municipal sector must use sma
 
 ## Need for research
 The municipalities need processes, methods and tools that support cost-effective opening of innovation-promoting data, as well as methods and guidelines for the co-creation of new modern services based on such data. The municipalities also need management and business models for open data that support innovation. The research questions to be answered in the project are:
-
 * What barriers prevent the municipalities from opening data that promotes innovation?
 * How can open data management be integrated into the municipalities' activities?
 * How can the facilitation of innovation with open data be integrated into the municipalities' activities?
@@ -23,9 +22,9 @@ The municipalities need processes, methods and tools that support cost-effective
 ## Approach
 
 {% include figure image_path="/assets/images/overall_idea.png" alt="Overall idea" caption="Overall idea of SamÅpne" %}
-The project will establish and disseminate knowledge on the above aspects. The Trondheim and Bodø municipalities will cooperate with the businesses, voluntary organizations and research (SINTEF) to create good solutions. Opening of data will be coordinated across municipalities and tried out. The project will establish a digital arena and test methods, models and tools for using open data and co-creation. Business, residents and non-governmental organizations will be involved in trials and evaluations. Methods, models and tools will be iteratively improved based on evaluations. Moreover, inter-municipal co-operation, knowledge and experience sharing shall be facilitated through the follower cities Fredrikstad, Gjesdal, Larvik, Stavanger, Drammen, Oslo and Kristiansand, and through existing networks such as KS, SCN (Smart City Norway) and OASC (Open Agile Smart Cities).
+The project will establish and disseminate knowledge on the above aspects. The Trondheim and Bodø municipalities will cooperate with the businesses, voluntary organizations and research (SINTEF) to create good solutions. Opening of data will be coordinated across municipalities and tried out. The project will establish a digital arena and test methods, models and tools for using open data and co-creation. Business, residents and non-governmental organizations will be involved in trials and evaluations. Methods, models and tools will be iteratively improved based on evaluations. Moreover, inter-municipal co-operation, knowledge and experience sharing shall be facilitated through the follower cities Fredrikstad, Gjesdal, Larvik, Stavanger, Drammen, Oslo and Kristiansand, and through existing networks such as The Norwegian Association of Local and Regional Authorities (KS), Smart City Norway (SCN), and Open Agile Smart Cities (OASC).
 
-##OpenDataLab
+## OpenDataLab
 The SamÅpne project is one of the projects that contribute to research results on open data at [opendatalab.no](https://opendatalab.no/). At opendatalab you can find more information related to open data, including [publication](https://opendatalab.no/publish/intro/) and [use](https://opendatalab.no/use/) of open data and [showcases] (https://opendatalab.no/showcases/) that use open data.
 
 ## Contacts
