@@ -1,5 +1,5 @@
 ---
-permalink: /om/
+permalink: /about/
 layout: single
 toc: true
 title: "About SamÅpne"
