@@ -31,6 +31,8 @@ feature_row:
     
 ---
 
+# The Open Data Challenge is being rescheduled
+# New tentative date is 28th January, 2021
 <embed src="/assets/images/OpenDataChallenge2020.pdf" height="400" type="application/pdf" />
 
 ## Hva er SamÅpne?
