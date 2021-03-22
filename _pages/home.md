@@ -31,8 +31,6 @@ feature_row:
     
 ---
 
-<embed src="/assets/images/OpenDataChallenge2020.pdf" height="400" type="application/pdf" />
-
 ## Hva er SamÅpne?
 SamÅpne er et innovasjonsprosjekt i offentlig sektor under FORKOMMUNE-programmet til Forskningsrådet. Prosjektet mål er å bidra til at kommuner kan etablere kostnadseffektive og standardiserte prosesser for åpning og forvaltning av innovasjonsfremmende åpne data, og "knekke koden" for å skape innovasjon og næringsutvikling gjennom samskaping basert på åpne data. Les mer om prosjektet her.
 
