@@ -1,6 +1,6 @@
 ---
 title: "Kronikk i Kommunal Rapport"
-date: 2021-04-12T21:30:00+01:00
+date: 2021-02-25T21:30:00+01:00
 author: "Shanshan Jiang"
 categories:
   - blog
