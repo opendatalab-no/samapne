@@ -1,6 +1,6 @@
 ---
 title: "SamÅpne-prosjektet i årets eKommune-konferanse"
-date: 2021-04-12T20:40:00+01:00
+date: 2021-04-12 20:40:00 +0100
 author: "Shanshan Jiang"
 categories:
   - blog
